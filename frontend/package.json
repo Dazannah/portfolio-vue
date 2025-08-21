@@ -23,6 +23,7 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.1",
     "@vue/test-utils": "^2.4.6",
+    "daisyui": "^5.0.50",
     "jsdom": "^26.1.0",
     "prettier": "3.6.2",
     "vite": "^7.0.6",
