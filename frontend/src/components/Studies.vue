@@ -1,5 +1,5 @@
 <template>
-  <div class="hero bg-base-200">
+  <div id="studies" class="hero bg-base-200 scroll-mt-16">
     <div class="hero-content">
       <h1 class="text-3xl font-bold">Tanulmányok</h1>
     </div>

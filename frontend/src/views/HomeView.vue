@@ -4,6 +4,7 @@ import Introduction from '@/components/Introduction.vue'
 import Projects from '@/components/projects.vue'
 import Studies from '@/components/Studies.vue'
 import Workplaces from '@/components/Workplaces.vue'
+import Footer from '@/components/Footer.vue'
 </script>
 
 <template>
@@ -13,5 +14,6 @@ import Workplaces from '@/components/Workplaces.vue'
     <Workplaces />
     <Studies />
     <Projects />
+    <Footer />
   </main>
 </template>

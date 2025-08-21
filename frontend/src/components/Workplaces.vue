@@ -1,5 +1,5 @@
 <template>
-  <div class="hero bg-base-200">
+  <div id="workplaces" class="hero bg-base-200 scroll-mt-16">
     <div class="hero-content">
       <h1 class="text-3xl font-bold">Munkahelyek</h1>
     </div>

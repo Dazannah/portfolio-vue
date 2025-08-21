@@ -1,5 +1,5 @@
 <template>
-  <div class="hero bg-base-200 min-h-screen">
+  <div id="hero" class="hero bg-base-200 min-h-screen scroll-mt-16">
     <div class="hero-content flex-col lg:flex-row-reverse">
       <img src="../assets/imgs/profilePic.jpg" class="max-w-sm rounded-lg shadow-2xl" />
       <div>
@@ -19,7 +19,7 @@
         </p>
 
         <a href="/cv.pdf" target="_blank"><button class="btn btn-primary">Önéletrajz</button></a>
-        <a href=""><button class="btn">Projektek</button></a>
+        <a href="#projects"><button class="btn">Projektek</button></a>
       </div>
     </div>
   </div>
