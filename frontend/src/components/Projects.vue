@@ -1,5 +1,5 @@
 <template>
-  <div id="projects" class="hero bg-base-200 lg:scroll-mt-16">
+  <div id="projects" class="hero bg-base-200 scroll-mt-16">
     <div class="hero-content">
       <h1 class="text-3xl font-bold">Projektek</h1>
     </div>

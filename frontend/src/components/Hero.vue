@@ -1,5 +1,5 @@
 <template>
-  <div id="hero" class="lg:hero p-5 bg-base-200 min-h-screen max-w-full lg:scroll-mt-16">
+  <div id="hero" class="lg:hero p-5 bg-base-200 min-h-screen max-w-full scroll-mt-16">
     <div class="lg:hero-content flex-col lg:flex-row-reverse max-w-full">
       <img
         src="../assets/imgs/profilePic.jpg"
