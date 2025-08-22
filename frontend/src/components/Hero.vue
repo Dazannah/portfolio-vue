@@ -23,6 +23,9 @@
 
         <a href="/cv.pdf" target="_blank"><button class="btn btn-primary">Önéletrajz</button></a>
         <a href="#projects"><button class="btn">Projektek</button></a>
+        <a href="https://github.com/Dazannah" target="_blank"
+          ><button class="btn">Github profilom</button></a
+        >
       </div>
     </div>
   </div>
