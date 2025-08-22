@@ -1,5 +1,5 @@
 <template>
-  <div id="introduction" class="hero bg-base-200 min-h-screen scroll-mt-16">
+  <div id="introduction" class="hero bg-base-200 min-h-screen lg:scroll-mt-16">
     <div class="hero-content">
       <div>
         <h1 class="text-3xl font-bold">Hogyan/miért kezdtem neki a programozás tanulásnak?</h1>

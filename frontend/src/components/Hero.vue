@@ -1,7 +1,7 @@
 <template>
-  <div id="hero" class="hero bg-base-200 min-h-screen scroll-mt-16">
-    <div class="hero-content flex-col lg:flex-row-reverse">
-      <img src="../assets/imgs/profilePic.jpg" class="max-w-sm rounded-lg shadow-2xl" />
+  <div id="hero" class="hero bg-base-200 min-h-screen max-w-full lg:scroll-mt-16">
+    <div class="lg:hero-content flex-col lg:flex-row-reverse max-w-full">
+      <img src="../assets/imgs/profilePic.jpg" class="rounded-lg shadow-2xl" />
       <div>
         <h1 class="text-5xl font-bold">Üdvözöllek a portfólió weboldalamon!</h1>
         <p class="py-6">

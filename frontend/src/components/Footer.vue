@@ -1,7 +1,7 @@
 <template>
   <footer
     id="footer"
-    class="footer sm:footer-horizontal bg-primary text-primary-content p-10 scroll-mt-16"
+    class="footer sm:footer-horizontal bg-primary text-primary-content p-10 lg:scroll-mt-16"
   >
     <nav>
       <h6 class="footer-title">Lakhely</h6>

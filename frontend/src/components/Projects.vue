@@ -1,12 +1,12 @@
 <template>
-  <div id="projects" class="hero bg-base-200 scroll-mt-16">
+  <div id="projects" class="hero bg-base-200 lg:scroll-mt-16">
     <div class="hero-content">
       <h1 class="text-3xl font-bold">Projektek</h1>
     </div>
   </div>
   <div class="max-w-screen bg-base-200 py-6">
     <div class="max-w-8/10 m-auto flex flex-col lg:flex-row gap-2 items-stretch">
-      <div class="card bg-base-100 w-96 h-full shadow-sm flex-auto">
+      <div class="card bg-base-100 max-w-96 mx-auto min-h-100 shadow-sm flex-auto">
         <figure>
           <img src="../assets/imgs/car-register.png" />
         </figure>
@@ -24,7 +24,7 @@
         </div>
       </div>
 
-      <div class="card bg-base-100 w-96 h-full shadow-sm flex-auto">
+      <div class="card bg-base-100 max-w-96 mx-auto min-h-100 shadow-sm flex-auto">
         <figure>
           <img src="../assets/imgs/usermanager.png" />
         </figure>
@@ -41,7 +41,7 @@
         </div>
       </div>
 
-      <div class="card bg-base-100 w-96 h-full shadow-sm flex-auto">
+      <div class="card bg-base-100 max-w-96 mx-auto min-h-100 shadow-sm flex-auto">
         <figure>
           <img src="../assets/imgs/appointment.png" />
         </figure>
