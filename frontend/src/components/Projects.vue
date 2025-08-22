@@ -18,8 +18,10 @@
           </p>
           <p class="pt-1">Laravel, Tailwind CSS, Blade, Livewire, MySQL</p>
           <div class="card-actions justify-end">
-            <a href="" target="_blank"><button class="btn btn-primary">Demó</button></a>
-            <a href="" target="_blank"><button class="btn btn-primary">Github</button></a>
+            <!-- <a href="" target="_blank"><button class="btn btn-primary">Demó</button></a> -->
+            <a href="https://github.com/Dazannah/car-register" target="_blank"
+              ><button class="btn btn-primary">Github</button></a
+            >
           </div>
         </div>
       </div>
@@ -35,8 +37,12 @@
           </p>
           <p class="pt-1">Laravel, Tailwind CSS, Blade, Livewire, MySQL</p>
           <div class="card-actions justify-end">
-            <a href="" target="_blank"><button class="btn btn-primary">Demó</button></a>
-            <a href="" target="_blank"> <button class="btn btn-primary">Github</button></a>
+            <a href="https://usermanager.davidfabian.hu/" target="_blank"
+              ><button class="btn btn-primary">Demó</button></a
+            >
+            <a href="https://github.com/Dazannah/usermanager" target="_blank">
+              <button class="btn btn-primary">Github</button></a
+            >
           </div>
         </div>
       </div>
@@ -50,8 +56,12 @@
           <p>Időpontok foglalása, kezelése. Felhasználók kezelése. Szünnapok megadása.</p>
           <p class="pt-1">Laravel, Tailwind CSS, Blade, MySQL</p>
           <div class="card-actions justify-end">
-            <a href="" target="_blank"> <button class="btn btn-primary">Demó</button></a>
-            <a href="" target="_blank"> <button class="btn btn-primary">Github</button></a>
+            <a href="https://appointment.davidfabian.hu/" target="_blank">
+              <button class="btn btn-primary">Demó</button></a
+            >
+            <a href="https://github.com/Dazannah/appointment" target="_blank">
+              <button class="btn btn-primary">Github</button></a
+            >
           </div>
         </div>
       </div>
