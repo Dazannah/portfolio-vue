@@ -1,9 +1,12 @@
 <template>
-  <div id="hero" class="hero bg-base-200 min-h-screen max-w-full lg:scroll-mt-16">
+  <div id="hero" class="lg:hero p-5 bg-base-200 min-h-screen max-w-full lg:scroll-mt-16">
     <div class="lg:hero-content flex-col lg:flex-row-reverse max-w-full">
-      <img src="../assets/imgs/profilePic.jpg" class="rounded-lg shadow-2xl" />
+      <img
+        src="../assets/imgs/profilePic.jpg"
+        class="max-w-2xs mx-auto sm:max-w-xs rounded-lg shadow-2xl"
+      />
       <div>
-        <h1 class="text-5xl font-bold">Üdvözöllek a portfólió weboldalamon!</h1>
+        <h1 class="text-3xl lg:text-5xl font-bold">Üdvözöllek a portfólió weboldalamon!</h1>
         <p class="py-6">
           Fábián Dávid vagyok, webfejlesztő. 2023 márciusában kezdtem a Junior Fullstack API
           fejlesztő képzést az IEC-nél. Ez a képzés mellett egy pár kurzust az Udemy-n is elvégeztem
